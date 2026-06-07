@@ -27,11 +27,11 @@ The study investigates machine learning approaches for recognizing human activit
 
 ## Research Highlights
 
-- 📡 **Radar spectrograms** as input — privacy-preserving and environment-robust
-- 🔬 **Fourier Transform (FFT)** for frequency-domain feature extraction
-- ⚖️ **Three-model comparative analysis** — SVM, KNN, and CNN
-- 🎯 **Tactical edge deployment** focus — lightweight and efficient inference
-- 🗄️ **PostgreSQL** backend for scalable image data management
+-  **Radar spectrograms** as input — privacy-preserving and environment-robust
+-  **Fourier Transform (FFT)** for frequency-domain feature extraction
+-  **Three-model comparative analysis** — SVM, KNN, and CNN
+-  **Tactical edge deployment** focus — lightweight and efficient inference
+-  **PostgreSQL** backend for scalable image data management
 
 ---
 
