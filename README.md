@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-ICCIS%202025-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Institution-BITS%20Pilani%2C%20Goa-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -17,7 +16,7 @@ This repository contains the implementation of our research paper:
 
 > **"Efficient Human Activity Recognition from Radar Spectrograms: Comparative Study of SVM, CNN, and KNN for Tactical Edge Deployment"**
 >
-> *Shri Manasa S, Sarvani Sruthi Chundi*
+> *Shri Manasa S*
 > Presented at the **7th International Conference on Communication and Intelligent Systems (ICCIS 2025)**
 > BITS Pilani, K K Birla Goa Campus — September 26–27, 2025
 
